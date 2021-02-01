@@ -1,0 +1,7 @@
+F:\C#\BasicDataType\BasicDataType\bin\Debug\BasicDataType.exe.config
+F:\C#\BasicDataType\BasicDataType\bin\Debug\BasicDataType.exe
+F:\C#\BasicDataType\BasicDataType\bin\Debug\BasicDataType.pdb
+F:\C#\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csprojAssemblyReference.cache
+F:\C#\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csproj.CoreCompileInputs.cache
+F:\C#\BasicDataType\BasicDataType\obj\Debug\BasicDataType.exe
+F:\C#\BasicDataType\BasicDataType\obj\Debug\BasicDataType.pdb

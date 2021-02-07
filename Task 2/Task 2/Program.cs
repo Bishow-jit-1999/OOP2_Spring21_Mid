@@ -10,12 +10,21 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-            int sum=0;
+            int Evensum = 0;
+            int Oddsum = 0;
             for(int i = 0; i <= 100; i++)
             {
-                sum =sum+ i;
+                if (i % 2 == 0)
+                {
+                    Evensum = Evensum + i;
+                }
+                else
+                {
+                    Oddsum = Oddsum + i;
+                }
             }
-            Console.WriteLine("The sum of the numbers are:" + sum);
+            Console.WriteLine("The sum of the Even numbers are:" + Evensum);
+            Console.WriteLine("The sum of the Odd numbers are:" + Oddsum);
         }
     }
 }

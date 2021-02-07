@@ -11,7 +11,7 @@ namespace Task_1
         static void Main(string[] args)
         {
             int n = 100;
-            for(int i=1; i < n; i++)
+            for( int i=0; i <= 100; i++)
             {
                 if (i % 2 == 0)
                 {

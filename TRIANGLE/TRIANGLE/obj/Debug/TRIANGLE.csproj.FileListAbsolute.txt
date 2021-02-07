@@ -1,0 +1,6 @@
+F:\C#\TRIANGLE\TRIANGLE\bin\Debug\TRIANGLE.exe.config
+F:\C#\TRIANGLE\TRIANGLE\bin\Debug\TRIANGLE.exe
+F:\C#\TRIANGLE\TRIANGLE\bin\Debug\TRIANGLE.pdb
+F:\C#\TRIANGLE\TRIANGLE\obj\Debug\TRIANGLE.csproj.CoreCompileInputs.cache
+F:\C#\TRIANGLE\TRIANGLE\obj\Debug\TRIANGLE.exe
+F:\C#\TRIANGLE\TRIANGLE\obj\Debug\TRIANGLE.pdb

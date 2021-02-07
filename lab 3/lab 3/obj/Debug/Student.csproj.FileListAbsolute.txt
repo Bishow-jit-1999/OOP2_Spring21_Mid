@@ -1,0 +1,6 @@
+F:\C#\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+F:\C#\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+F:\C#\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+F:\C#\Lab 3\Lab 3\obj\Debug\Student.csproj.CoreCompileInputs.cache
+F:\C#\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+F:\C#\Lab 3\Lab 3\obj\Debug\Lab 3.pdb

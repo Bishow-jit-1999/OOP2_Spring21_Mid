@@ -13,7 +13,7 @@ namespace Task_3
             int Phy = 89;
             int Chem = 85;
             int Bio = 79;
-            int Math = 00;
+            int Math = 70;
             int Comp = 88;
             int ExamTotal = 500;
 
@@ -45,7 +45,7 @@ namespace Task_3
             }
             if (Percentage < 50)
             {
-                Console.WriteLine("The Studet grade is:F");
+                Console.WriteLine(" Studet grade is:F");
             }
         }
     }

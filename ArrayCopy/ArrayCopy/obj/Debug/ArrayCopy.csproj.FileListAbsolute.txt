@@ -1,0 +1,7 @@
+F:\C#\ArrayCopy\ArrayCopy\obj\Debug\ArrayCopy.csprojAssemblyReference.cache
+F:\C#\ArrayCopy\ArrayCopy\obj\Debug\ArrayCopy.csproj.CoreCompileInputs.cache
+F:\C#\ArrayCopy\ArrayCopy\bin\Debug\ArrayCopy.exe.config
+F:\C#\ArrayCopy\ArrayCopy\bin\Debug\ArrayCopy.exe
+F:\C#\ArrayCopy\ArrayCopy\bin\Debug\ArrayCopy.pdb
+F:\C#\ArrayCopy\ArrayCopy\obj\Debug\ArrayCopy.exe
+F:\C#\ArrayCopy\ArrayCopy\obj\Debug\ArrayCopy.pdb

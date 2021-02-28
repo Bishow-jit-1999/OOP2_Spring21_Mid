@@ -1,0 +1,7 @@
+F:\C#\UniqueElementArray\UniqueElementArray\obj\Debug\UniqueElementArray.csproj.CoreCompileInputs.cache
+F:\C#\UniqueElementArray\UniqueElementArray\bin\Debug\UniqueElementArray.exe.config
+F:\C#\UniqueElementArray\UniqueElementArray\bin\Debug\UniqueElementArray.exe
+F:\C#\UniqueElementArray\UniqueElementArray\bin\Debug\UniqueElementArray.pdb
+F:\C#\UniqueElementArray\UniqueElementArray\obj\Debug\UniqueElementArray.exe
+F:\C#\UniqueElementArray\UniqueElementArray\obj\Debug\UniqueElementArray.pdb
+F:\C#\UniqueElementArray\UniqueElementArray\obj\Debug\UniqueElementArray.csprojAssemblyReference.cache

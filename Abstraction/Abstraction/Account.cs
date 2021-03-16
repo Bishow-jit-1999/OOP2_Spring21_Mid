@@ -13,20 +13,16 @@ namespace Abstraction
             public string AccNo { get; }
             public double Balance { get; set; }
             public Account() { }
-
-        public Account(string accName, string accNo, double balance)
-        {
+            
+           public Account(string accName, string accNo, double balance) {
             AccName = accName;
             AccNo = accNo;
             Balance = balance;
         }
+            
+        abstract public void ShowInfo();
 
-        public void ShowInfo()
-            {
-                Console.WriteLine("Name: " + AccName);
-                Console.WriteLine("Acc No: " + AccNo);
-                Console.WriteLine("Balance: " + Balance);
-            }
+            
         abstract public void Deposit(double amount);
             
         abstract public void Withdraw(double amount);

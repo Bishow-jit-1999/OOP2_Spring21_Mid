@@ -16,7 +16,7 @@ namespace Association
             get { return deptName; }
             set { deptName = value; }
         }
-        private string  deptid;
+        private string deptid;
 
         public string DeptId
         {
@@ -24,35 +24,44 @@ namespace Association
             set { deptid = value; }
         }
 
-        private Student[] students;
-        public int studentCount;
+
+        public Student[] students;
+        
+        public int studentCount = 0;
+
+        public Department()
+        {
+            students = new Student[100];
+        }
+       
+        public Department(string deptName, string deptid):this()
+        {
+            
+            this.deptName = deptName;
+            this.deptid = deptid;
+
+
+        }
 
         public void AddStudent(params Student[]students)
         {
-            foreach (var s in students)
+            foreach (Student  s in students)
             {
-                students[studentCount++] = s;
+                
+                this.students[studentCount++]=s;
                 s.Dept = this;
+                
             }
         }
 
         public void AllStudent()
-        {
-            for(int i = 0; i < studentCount; i++)
+        {  
+            for(int i=0;i< studentCount; i++)
             {
                 students[i].ShowInfo();
             }
         }
-        public Department()
-        {
-          
-        }
-        public Department(string deptName,string deptid,Student students )
-        {
-            this.deptName = deptName;
-            this.deptid = deptid;
-            this.students = students;
-        }
+       
         public void ShowInfo()
         {
             Console.WriteLine("Department Name:" + deptName);

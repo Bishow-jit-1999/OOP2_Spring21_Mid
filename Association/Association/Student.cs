@@ -44,14 +44,14 @@ namespace Association
 
         public Student()
         {
-
+            
         }
-        public Student(string name, string id,float cgpa)
+        public Student(string name, string id,float cgpa):this()
         {
             this.name = name;
             this.id = id;
             this.cgpa = cgpa;
-
+            
         }
         public void ShowInfo()
         {
